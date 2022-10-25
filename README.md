@@ -4,7 +4,7 @@
 
 <img align="right" src="/github-metrics.svg" width="325" />
 
-#### I'm [`アンドレックス`](https://github.com/DeveloperWOW64) `(Andrex)`, a young yet experienced British front-end *(SOOOO NEARLY FULL-STACK!!!)* developer, with interests and skills in WinUI, Svelte and Japanese. Also a member of [`@FluentHub`](https://github.com/FluentHub/FluentHub) and [`@DepthCDLS`](https://github.com/DepthCDLS)
+#### I'm [`アンドレックス`](https://github.com/DeveloperWOW64) `(Andrex)`, a young yet experienced British front-end developer, with interests and skills in WinUI, Svelte and Japanese. Also a member of [`@FluentHub`](https://github.com/FluentHub/FluentHub) and [`@DepthCDLS`](https://github.com/DepthCDLS)
 
 
 **🔭 I’m currently working on [`FluentHub`](https://github.com/FluentHub/FluentHub), [`Emerald`](https://github.com/DepthCDLS/Emerald) and the [`Protocol`](https://github.com/DepthCDLS/Protocol).**
