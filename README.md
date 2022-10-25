@@ -41,9 +41,10 @@ Flux - making the world's best 'fkcd' programming language. Flux utilises Python
 
 Desktop Management simplifies your workspace by making easier to access the power-user tools you need, but still in a user-friendly way. With descriptions for every task, Desktop Management allows you to easily access the normal Windows tools you love.
 
-### 🏗️ Suspension
+### 🎍 What's Plaza?
 
-[`Protocol`](https://github.com/DepthCDLS/Protocol) and [`Desktop Management`](https://github.com/DepthCDLS/deskmgr) are suspended for the purpose of prioritising work on [`FluentHub`](https://github.com/FluentHub/FluentHub) and [`Emerald`](https://github.com/DepthCDLS/Emerald). However, my friends may want to pick up the project in their free-time.
+Plaza is a fluent open-source messaging client built with WinUI for the Universal Windows Platform. It's also designed for Windows Phone and is an easy to use app.
+Plaza is based on [`Noobsenger`](https://github.com/NoobNotFound), but rather than being hosted locally, Plaza is hosted on Azure/Andrexial servers.
 
 <!--
 **DeveloperWOW64/DeveloperWOW64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
