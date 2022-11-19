@@ -4,14 +4,14 @@
 
 <img align="right" src="/github-metrics.svg" width="325" />
 
-#### I'm [`アンドレックス`](https://github.com/DeveloperWOW64) `(Andrex)`, a young yet experienced British front-end developer, with interests and skills in WinUI, Svelte and Japanese. Also a member of [`@FluentHub`](https://github.com/FluentHub/FluentHub) and [`@DepthCDLS`](https://github.com/DepthCDLS)
+#### I'm [`アンドレックス`](https://github.com/DeveloperWOW64) `(Andrex)`, a young yet experienced British front-end developer, with interests and skills in WinUI, Svelte and Japanese. Also a member of [`@FluentHub`](https://github.com/FluentHub/FluentHub) and [`@CrescentDepth`](https://github.com/CrescentDepth)
 
 
-**🔭 I’m currently working on [`FluentHub`](https://github.com/FluentHub/FluentHub), [`Emerald`](https://github.com/DepthCDLS/Emerald) and the [`Protocol`](https://github.com/DepthCDLS/Protocol).**
+**🔭 I’m currently working on [`FluentHub`](https://github.com/FluentHub/FluentHub), [`Emerald`](https://github.com/CrescentDepth/Emerald) and the [`Protocol`](https://github.com/CrescentDepth/Protocol).**
 
 **🌱 I’m currently learning [`C#`](https://wikipedia.org/wiki/C_Sharp_(programming_language)) and the [`Japanese`](https://wikipedia.org/wiki/Japanese_language) language.**
 
-**🦜 Languages: [`C#`](https://wikipedia.org/wiki/C_Sharp_(programming_language)), [`XAML`](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language), [`Flux`](https://github.com/DepthCDLS/Flux) and [`Python`](https://en.wikipedia.org/wiki/Python_(programming_language))**
+**🦜 Languages: [`C#`](https://wikipedia.org/wiki/C_Sharp_(programming_language)), [`XAML`](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language), [`Flux`](https://github.com/CrescentDepth/Flux) and [`Python`](https://en.wikipedia.org/wiki/Python_(programming_language))**
 
 **📫 How to reach me: [`personal@andrexial.onmicrosoft.com`](mailto:personal@andrexial.onmicrosoft.com); `DeveloperWOW64#6950`**
 
