@@ -13,7 +13,7 @@
 
 **🦜 Languages: [`C#`](https://wikipedia.org/wiki/C_Sharp_(programming_language)), [`XAML`](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language), [`Flux`](https://github.com/DepthCDLS/Flux) and [`Python`](https://en.wikipedia.org/wiki/Python_(programming_language))**
 
-**📫 How to reach me: [`andrex@cdl.codrex.dev`](mailto:andrex@cdl.codrex.dev); `DeveloperWOW64#6950`**
+**📫 How to reach me: [`personal@andrexial.onmicrosoft.com`](mailto:personal@andrexial.onmicrosoft.com); `DeveloperWOW64#6950`**
 
 **😄 Pronouns: `he/him`**
 
