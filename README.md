@@ -4,6 +4,9 @@
 
 <img align="right" src="/github-metrics.svg" width="325" />
 
+▄▀█ █▄░█ █▀▄ █▀█ █▀▀ ▀▄▀  
+█▀█ █░▀█ █▄▀ █▀▄ ██▄ █░█
+
 #### I'm [`アンドレックス`](https://github.com/DeveloperWOW64) `(Andrex)`, a young yet experienced British front-end developer, with interests and skills in WinUI, Svelte and Japanese. Also a member of [`@FluentHub`](https://github.com/FluentHub/FluentHub) and [`@OpenAndrexial`](https://github.com/OpenAndrexial)
 
 
