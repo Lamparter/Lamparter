@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://hit.yhype.me/github/profile?user_id=71598437)
-
 # <a href="https://github.com/MetropolitanCitizen"><img alt="Hello! 👋" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1000&pause=2500&color=F7F7F7&width=435&lines=Hello!+%F0%9F%91%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+%F0%9F%91%8B;%C2%A1Hola!+%F0%9F%91%8B;Ciao!+%F0%9F%91%8B;Oi!+%F0%9F%91%8B;Salut!+%F0%9F%91%8B;Salve!+%F0%9F%91%8B;Hallo!+%F0%9F%91%8B" /><a/>
 
 <a href="https://github.com/MetropolitanCitizen"><img align="left" src="https://user-images.githubusercontent.com/71598437/186357128-9a20d82a-5a27-4b37-a64f-8fc88f1f1f8d.png" width="250"/><a/>
@@ -86,3 +84,5 @@ Here are some ideas to get you started:
 | [Riverside Valley Enterprises Limited](https://www.wikidata.org/wiki/Q783794) | [British IT conglomerate](https://www.wikidata.org/wiki/Q778575) | [Unincorporated](https://www.wikidata.org/wiki/Q7885249) | [The future of computing starts now.](https://www.wikidata.org/wiki/Q344) |
         
 </div></details>
+
+![](https://hit.yhype.me/github/profile?user_id=71598437)
