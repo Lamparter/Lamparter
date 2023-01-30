@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <br/>
 
 ---
-
-## 😕 But who are you?
+        
+<details><summary><h3>❔ I want to know more!</h3></summary><div>
 
 ###### 📝 This is my FULL online identity. (Of course, this is only what I go by, not all of it completely is my real identity.)
 
@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 | --- | --- | --- | --- |
 | [Riverside Valley Enterprises Limited](https://www.wikidata.org/wiki/Q783794) | [British IT conglomerate](https://www.wikidata.org/wiki/Q778575) | [Unincorporated](https://www.wikidata.org/wiki/Q7885249) | [The future of computing starts now.](https://www.wikidata.org/wiki/Q344) |
         
+</div></details>
 </div></details>
 
 ![](https://hit.yhype.me/github/profile?user_id=71598437)
