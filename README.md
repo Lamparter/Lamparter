@@ -26,12 +26,7 @@ Here are some ideas to get you started:
 **💬 Fav quote: “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
 
 **😄 Pronouns: [`he/him`](https://www.wikidata.org/wiki/Q1196074)**
-
-<br/>
-<br/>
-<br/>
-<br/>
-
+ 
 ---
         
 <details><summary><h3>❔ I want to know more!</h3></summary><div>
@@ -55,6 +50,8 @@ Here are some ideas to get you started:
 | Avatar | Full Avatar |
 | --- | --- |
 | <a href="hhttps://www.wikidata.org/wiki/Q152402"><img align="left" src="https://avatars.githubusercontent.com/u/71598437?v=4" width="250"/><a/> | <a href="https://www.wikidata.org/wiki/Q170494"><img align="left" src="https://user-images.githubusercontent.com/71598437/186357128-9a20d82a-5a27-4b37-a64f-8fc88f1f1f8d.png" width="250"/><a/> |
+        
+---
 
 <details><summary><h3>🧑 Advanced Details</h3></summary><div>
 
@@ -82,8 +79,12 @@ Here are some ideas to get you started:
 | Company | Industry | Type | Description |
 | --- | --- | --- | --- |
 | [Riverside Valley Enterprises Limited](https://www.wikidata.org/wiki/Q783794) | [British IT conglomerate](https://www.wikidata.org/wiki/Q778575) | [Unincorporated](https://www.wikidata.org/wiki/Q7885249) | [The future of computing starts now.](https://www.wikidata.org/wiki/Q344) |
+
+---        
         
 </div></details>
 </div></details>
+        
+---
 
 ![](https://hit.yhype.me/github/profile?user_id=71598437)
