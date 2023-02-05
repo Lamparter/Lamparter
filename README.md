@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 **😄 Pronouns: [`he/him`](https://www.wikidata.org/wiki/Q1196074)**
  
+###### 📝 I use username `Lamparter` for professional work, and username `MetropolitanCitizen` for social accounts.
+ 
 ---
         
 <details><summary><h3>❔ I want to know more!</h3></summary><div>
