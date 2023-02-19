@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
 **🧑‍🤝‍🧑 I’m looking to collaborate on `Flux` and `Emerald`**
  
-**🔭 Currently working on `Emerald` and `Flux`** - check my profile pins for more info!
+**🔭 Currently working on `Plaza`, `Emerald` and `Flux`** - check my profile pins for more info!
  
 **💬 Fav quote: “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
 
