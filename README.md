@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###### A young yet experienced British front-end developer, with interests and skills in WinUI, Python, Svelte and Japanese. Also a member of [@FluentHub](https://github.com/FluentHub) and [@RiversideValley](https://github.com/RiversideValley)
 
-#### Hi! I'm Lucius Lamparter! Maybe you've never heard of me, but I'm a semi-fullstack developer from the UK ([and proud to be so](https://www.wikidata.org/wiki/Q6241)). In my free-time I love to edit [wikipedia](https://wikipedia.org) articles and write essays.
+#### Hi! I'm Lucius Lamparter! Maybe you've never heard of me, but I'm a semi-fullstack developer from the UK ([and proud to be so](https://www.wikidata.org/wiki/Q6241)).
 
 **📫 How to reach me: [`me@andrexial.org.uk`](mailto:me@andrexial.org.uk)**
 
