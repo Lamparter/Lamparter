@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### Hi! I'm Lucius Lamparter! Maybe you've never heard of me, but I'm a semi-fullstack developer from the UK ([and proud to be so](https://www.wikidata.org/wiki/Q6241)).
 
-**📫 How to reach me: [`me@andrexial.org.uk`](mailto:me@andrexial.org.uk)**
+**📫 How to reach me: [`me@theriversi.de`](mailto:me@theriversi.de)**
 
 **🌐 Languages I know: `XAML`; `Python`; `Flux`; `C#` (_ish_)**
  
