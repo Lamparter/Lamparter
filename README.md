@@ -17,23 +17,15 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Lamparter"><img align="left" src="https://user-images.githubusercontent.com/71598437/186357128-9a20d82a-5a27-4b37-a64f-8fc88f1f1f8d.png" width="250"/><a/>
 
-###### A young yet experienced British front-end developer, with interests and skills in WinUI, Python, Svelte and Japanese. Also a member of [@FluentHub](https://github.com/FluentHub) and [@RiversideValley](https://github.com/RiversideValley)
+###### A young yet experienced British frontend developer with interests and skills in multiple frameworks and languages with a passion for creativity.
 
-#### Hi! I'm Lucius Lamparter! Maybe you've never heard of me, but I'm a semi-fullstack developer from the UK ([and proud to be so](https://www.wikidata.org/wiki/Q6241)).
+#### Hi! I'm Lamparter! Maybe you've never heard of me, but I'm a semi-fullstack developer from the UK ([and proud to be so](https://www.wikidata.org/wiki/Q6241)).
 
 **📫 How to reach me: [`me@theriversi.de`](mailto:me@theriversi.de)**
-
-**🌐 Languages I know: `XAML`; `Python`; `Flux`; `C#` (_ish_)**
- 
-**🧑‍🤝‍🧑 I’m looking to collaborate on `Flux` and `Emerald`**
- 
-**🔭 Currently working on `Plaza`, `Emerald` and `Flux`** - check my profile pins for more info!
  
 **💬 Fav quote: “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
 
 **😄 Pronouns: [`he/him`](https://www.wikidata.org/wiki/Q1196074)**
-
----
         
 <!--<details><summary><h3>❔ I want to know more!</h3></summary><div>
 
