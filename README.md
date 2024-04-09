@@ -22,10 +22,4 @@ Here are some ideas to get you started:
 
 #### Hi! I'm Lamparter! Maybe you've never heard of me, but I'm a semi-fullstack developer from the UK ([and proud to be so](https://www.wikidata.org/wiki/Q6241)).
 
-**📫 How to reach me: [`lamparter@theriversi.de`](mailto:lamparter@theriversi.de)**
- 
-**💬 Fav quote: “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
-
-**😄 Pronouns: [`he/him`](https://www.wikidata.org/wiki/Q1196074)**
-
 ![](https://hit.yhype.me/github/profile?user_id=71598437)
