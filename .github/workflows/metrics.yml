@@ -46,7 +46,7 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_isocalendar: yes
+          plugin_isocalendar: no
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -62,7 +62,7 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_reactions: yes
+          plugin_reactions: no
           plugin_reactions_display: absolute
           plugin_reactions_limit: 200
           plugin_reactions_limit_discussions: 100
