@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 #### Hi! I'm Lamparter! Maybe you've never heard of me, but I'm a semi-fullstack developer from the UK ([and proud to be so](https://www.wikidata.org/wiki/Q6241)).-->
 
-![metrics](github-metrics.svg)
+[![metrics](github-metrics.svg)](https://github.com/Lamparter)
 
 ![](https://hit.yhype.me/github/profile?user_id=71598437)
