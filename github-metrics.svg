@@ -262,7 +262,7 @@ Added 24x icons too, not very necessary change, but I will be using these soon..
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">519d9621</span>
-                            <span class="code">src/FluentHub.App/Assets/Octicons/arrow-down-16.svg</span>
+                            <span class="code">src/FluentHub.App/Assets/Octicons/file-directory-fill-16.svg</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -273,14 +273,14 @@ Added 24x icons too, not very necessary change, but I will be using these soon..
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"&gt;&lt;path fill-rule="evenodd" d="M13.03 8.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.47 9.28a.75.75 0 011.06-1.06l2.97 2.97V3.75a.75.75 0 011.5 0v7.44l2.97-2.97a.75.75 0 011.06 0z"/&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"&gt;&lt;path d="M13.03 8.22a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06 0L3.47 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l2.97 2.97V3.75a.75.75 0 0 1 1.5 0v7.44l2.97-2.97a.75.75 0 0 1 1.06 0Z"/&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"&gt;&lt;path d="M1.75 1A1.75 1.75 0 000 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0016 13.25v-8.5A1.75 1.75 0 0014.25 3H7.5a.25.25 0 01-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75z"/&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"&gt;&lt;path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"/&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2024, 02:47:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2024, 03:53:48 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
