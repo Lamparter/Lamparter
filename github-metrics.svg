@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="701" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1327" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}svg.calendar{margin-left:13px;margin-top:4px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}svg.calendar{margin-left:13px;margin-top:4px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown ul{padding-left:24px}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -210,13 +210,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 66 commits)</small>
+                    <small class="h-details">(computed from last 65 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 52.7 characters per line of code written</li>
-                        <li>Mostly pushes code around 16:00</li>
+                        <li>Has approximately 51.8 characters per line of code written</li>
+                        <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
@@ -235,7 +235,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">0x5bfa/FluentHub</span>
+                            <span class="blue space">Lamparter/Catalyst</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -243,7 +243,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 22 Sept 2024, 08:25:39
+                            On 22 Sept 2024, 07:58:02
                         </div>
                     </section>
                 </div>
@@ -253,18 +253,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            ⬆️ Update `octicons` to latest
-
-Give me a second....
+                            🧪 Add tests
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">08303c6c</span>
-                            <span class="code">src/FluentHub.Octicons.Generator/Assets/bookmark-slash-fill-16.svg</span>
+                            <span class="code">8261e8c1</span>
+                            <span class="code">Catalyst.Tests/Resources/TestResource-ED54.svg</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++5</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -273,14 +271,14 @@ Give me a second....
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"&gt;&lt;path d="M1.19 1.143a.75.75 0 1 0-.88 1.215L3 4.305v9.945a.75.75 0 0 0 1.206.596L8 11.944l3.794 2.902A.75.75 0 0 0 13 14.25v-2.703l1.81 1.31a.75.75 0 1 0 .88-1.214l-2.994-2.168a1.09 1.09 0 0 0-.014-.01L4.196 3.32a.712.712 0 0 0-.014-.01L1.19 1.143Zm2.934.203A.5.5 0 0 1 4.6 1h7.233C12.478 1 13 1.522 13 2.167v5.05a.5.5 0 0 1-.793.405l-7.9-5.717a.5.5 0 0 1-.183-.559Z"/&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,5 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;!-- Exported by Character Map UWP --&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;svg height="100%" viewBox="0 0 1024 1024" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line"> &lt;path d="M0,512C0,434.333 12.0833,364 36.25,301C60.4167,238 94.8333,184.167 139.5,139.5C184.167,94.8334 238,60.4167 301,36.25C364,12.0834 434.333,0 512,0C589.667,0 660,12.0834 723,36.25C786,60.4167 839.833,94.8334 884.5,139.5C929.167,184.167 963.583,238 987.75,301C1011.92,364 1024,434.333 1024,512C1024,589.667 1011.92,660 987.75,723C963.583,786 929.167,839.833 884.5,884.5C839.833,929.167 786,963.583 723,987.75C660,1011.92 589.667,1024 512,1024C434.333,1024 364,1011.92 301,987.75C238,963.583 184.167,929.167 139.5,884.5C94.8333,839.833 60.4167,786 36.25,723C12.0833,660 0,589.667 0,512ZM960,512C960,443.333 949.583,381.333 928.75,326C907.917,270.667 878.083,223.583 839.25,184.75C800.417,145.917 753.333,116.083 698,95.25C642.667,74.4167 580.667,64.0001 512,64C443.333,64.0001 381.333,74.4167 326,95.25C270.667,116.083 223.583,145.917 184.75,184.75C145.917,223.583 116.083,270.667 95.25,326C74.4167,381.333 64,443.333 64,512C64,580.667 74.4167,642.667 95.25,698C116.083,753.333 145.917,800.417 184.75,839.25C223.583,878.083 270.667,907.917 326,928.75C381.333,949.583 443.333,960 512,960C580.667,960 642.667,949.583 698,928.75C753.333,907.917 800.417,878.083 839.25,839.25C878.083,800.417 907.917,753.333 928.75,698C949.583,642.667 960,580.667 960,512ZM256,320C256,306.667 258.5,294.167 263.5,282.5C268.5,270.833 275.333,260.667 284,252C292.667,243.333 302.833,236.5 314.5,231.5C326.167,226.5 338.667,224 352,224C365,224 377.333,226.5 389,231.5C400.667,236.5 410.917,243.417 419.75,252.25C428.583,261.083 435.5,271.333 440.5,283C445.5,294.667 448,307 448,320C448,333 445.5,345.333 440.5,357C435.5,368.667 428.583,378.917 419.75,387.75C410.917,396.583 400.667,403.5 389,408.5C377.333,413.5 365,416 352,416C339,416 326.667,413.5 315,408.5C303.333,403.5 293.083,396.583 284.25,387.75C275.417,378.917 268.5,368.667 263.5,357C258.5,345.333 256,333 256,320ZM576,320C576,307 578.5,294.667 583.5,283C588.5,271.333 595.417,261.083 604.25,252.25C613.083,243.417 623.333,236.5 635,231.5C646.667,226.5 659,224 672,224C685,224 697.333,226.5 709,231.5C720.667,236.5 730.917,243.417 739.75,252.25C748.583,261.083 755.5,271.333 760.5,283C765.5,294.667 768,307 768,320C768,333 765.5,345.333 760.5,357C755.5,368.667 748.583,378.917 739.75,387.75C730.917,396.583 720.667,403.5 709,408.5C697.333,413.5 685,416 672,416C659,416 646.667,413.5 635,408.5C623.333,403.5 613.083,396.583 604.25,387.75C595.417,378.917 588.5,368.667 583.5,357C578.5,345.333 576,333 576,320ZM208,512L816,512C816,537.667 812.667,562.75 806,587.25C799.333,611.75 789.917,635.083 777.75,657.25C765.583,679.417 751,700 734,719C717,738 698,754.667 677,769C652,786 625.75,798.083 598.25,805.25C570.75,812.417 542,816 512,816C482.333,816 453.5,812.417 425.5,805.25C397.5,798.083 371.167,786 346.5,769C325.833,754.667 307,738 290,719C273,700 258.417,679.417 246.25,657.25C234.083,635.083 224.667,611.667 218,587C211.333,562.333 208,537.333 208,512Z" fill="#FFFFFF" fill-opacity="1"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line"> &lt;/path&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2024, 19:31:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2024, 20:17:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
